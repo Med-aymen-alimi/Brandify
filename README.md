@@ -1,4 +1,3 @@
----
 
 # **Brandify: AI-Powered Branding Strategy Application**
 
@@ -46,6 +45,4 @@ The `set_seed` function is used to ensure reproducibility of the generated resul
 ## **Deployment Readiness**
 
 All three models have been thoroughly tested within this notebook and are fully prepared for integration and deployment within the Brandify web application.
-
----
 
